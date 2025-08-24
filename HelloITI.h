@@ -4,4 +4,6 @@ using namespace std;
 class HelloITI
 {
     void printHelloITI();
+    void printHelloGit();
 };
+
